@@ -2,4 +2,8 @@ só depois disso percebi que algumas pastas e arquivos não precisavam ficar ass
 
 Segue aqui então um pequeno passo-a-passo para resolver esta situação:
 
-1. Primeiramente, vamos nos certificar de que o repositório local está sincronizado com o repositório remoto (aqui estamos nos baseando de que o branch atual seja o master):
+1. Primeiramente, vamos nos certificar de que o repositório 1
+local 1está sincronizado com o repositório remoto (aqui estamos nos baseando de que o branch atual seja o master):
+
+
+alteradao
