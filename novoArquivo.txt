@@ -7,3 +7,5 @@ local 1está sincronizado com o repositório remoto (aqui estamos nos baseando d
 
 
 alteradao
+
+novoasas
