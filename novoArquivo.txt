@@ -1,0 +1,5 @@
+só depois disso percebi que algumas pastas e arquivos não precisavam ficar assim lá disponíveis publicamente, então obviamente, precisei removê-los do repositório remoto, porém em minha máquina local eu preciso que elas continuem.
+
+Segue aqui então um pequeno passo-a-passo para resolver esta situação:
+
+1. Primeiramente, vamos nos certificar de que o repositório local está sincronizado com o repositório remoto (aqui estamos nos baseando de que o branch atual seja o master):
